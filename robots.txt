@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://03aryangoel.github.io/sitemap.xml
